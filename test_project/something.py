@@ -2,16 +2,12 @@ __author__ = 'Mattia'
 
 from matplotlib import pyplot as plt
 
-
 #import matplotlib as mpl
 #mpl.use('Qt4Agg')
-
 
 import sys
 import os
 import json
-
-
 
 #my_file = open("4f144ff15ccb6e3b0b00000e.json")
 
