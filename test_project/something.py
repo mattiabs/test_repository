@@ -50,9 +50,7 @@ for all_file in os.listdir(os.getcwd()):
         #x = range(1, time_window_index)
         #plt.plot(x, time_windows.values())
 
-        fig2, ax2 = plt.subplots()
-        ax2.hist(interArrival_times.values(), 100, histtype='stepfilled')
-        plt.show()
+
 
 
         print("end")
